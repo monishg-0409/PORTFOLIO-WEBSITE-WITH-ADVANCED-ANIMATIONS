@@ -63,3 +63,6 @@ Upload the contents of the dist folder to your preferred hosting service (e.g., 
 
 💡 Why Use This Portfolio?
 This portfolio provides a perfect blend of aesthetics, functionality, and simplicity. It is ideal for showcasing your personal brand, projects, and skills to potential clients, employers, or collaborators. The lightweight design and optimized code ensure fast load times, while the responsive layout ensures it looks great on all devices.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/8669e6c3-eb3c-4f39-a2f8-922baa652cb2)
